@@ -1,28 +1,28 @@
 # Bank-Management-System
 Users can performs the following operation: 
- Users can register and login. 
+- Users can register and login. 
 
- User can deposit, withdraw and check the balance of account. 
+- User can deposit, withdraw and check the balance of account. 
 
- Users can send money to another user’s account. 
+- Users can send money to another user’s account. 
 
- The user can update his account. 
+- The user can update his account. 
 
- Users can also check the transaction history as well.
+- Users can also check the transaction history as well.
 
 # Concept Used
-Abstraction
+- Abstraction
 
-Inheritance
+- Inheritance
 
-Encapsulation
+- Encapsulation
 
-Polymorphism
+- Polymorphism
 
-Exception Handling
+- Exception Handling
 
 # Tool Used
-Java Language
+- Java Language
 
-Netbeans IDE
+- Netbeans IDE
 
